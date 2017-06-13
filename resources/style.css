@@ -23,8 +23,14 @@ body{
   text-align: center;
 }
 
-nav{
+a{
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  text-decoration: underline;
+}
+
+.nav{
   display: flex;
   align-items: center;
-  text-decoration: underline;
 }
