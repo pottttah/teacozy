@@ -30,6 +30,9 @@ a{
   text-decoration: underline;
 }
 
+div{
+  display: flex;
+}
 .nav{
   display: flex;
   align-items: center;
