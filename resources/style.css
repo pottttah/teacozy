@@ -11,7 +11,12 @@
   height: 50px;
 }
 body{
-  background: black;
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: .9;
+  text-align: center;
 }
 
 nav{
