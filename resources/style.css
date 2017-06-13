@@ -30,10 +30,9 @@ a{
   text-decoration: underline;
 }
 
-div{
-  display: flex;
-}
 .nav{
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  text-align: right;
 }
