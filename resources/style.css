@@ -8,7 +8,7 @@
   border-bottom: 1px solid seashell;
 }
 
-.logo{
+#logo{
   display: flex;
   margin-left: 10px;
   height: 50px;
