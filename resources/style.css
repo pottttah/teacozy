@@ -21,6 +21,7 @@ body{
   background-color: black;
   opacity: .9;
   text-align: center;
+  overflow: scroll;
 }
 
 a{
