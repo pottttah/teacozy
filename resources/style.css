@@ -85,9 +85,6 @@ a{
 .locations{
   display: flex;
   justify-content: center;
-  background-color: black;
-  opacity: 1;
-
 }
 
 .downtown,
@@ -95,4 +92,6 @@ a{
 .oakdale{
   width: 300px;
   margin:15px 20px 0 0;
+  background-color: black;
+  opacity: 1;
 }
