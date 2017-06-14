@@ -87,6 +87,12 @@ a{
   justify-content: center;
   background-color: black;
   opacity: 1;
+
+}
+
+.downtown,
+.bayside,
+.oakdale{
   width: 300px;
   margin:15px 20px 0 0;
 }
