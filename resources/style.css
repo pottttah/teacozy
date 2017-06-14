@@ -30,6 +30,11 @@ a{
   text-decoration: underline;
 }
 
+img{
+  height: 200px;
+  width: 300px;
+}
+
 .nav{
   display: flex;
   justify-content: space-between;
@@ -50,4 +55,8 @@ a{
   align-items: center;
   background-color: black;
   width: 100%;
+}
+
+.teas{
+  display: flex;
 }
