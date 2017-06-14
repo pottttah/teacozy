@@ -58,6 +58,7 @@ a{
   width: 100%;
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
   height: 700px;
+  padding 69px;
 }
 
 .ourmission{
@@ -69,6 +70,7 @@ a{
 
 .tea-month{
   width: 1000px;
+  justify-content: center;
 }
 
 .teas{
