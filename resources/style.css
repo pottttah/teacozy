@@ -80,8 +80,12 @@ a{
 .location{
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
   height: 500px;
+  display: flex;
+  align-items: center;
 }
-
+.location h2{
+  padding-bottom: 15px;
+}
 .locations{
   display: flex;
   justify-content: center;
@@ -91,7 +95,7 @@ a{
 .bayside,
 .oakdale{
   width: 300px;
-  margin:15px 20px 0 0;
+  margin:0 20px 0 0;
   background-color: black;
   opacity: 1;
 }
