@@ -95,3 +95,12 @@ a{
   background-color: black;
   opacity: 1;
 }
+
+.contact{
+  height: 200px;
+}
+
+.copyright{
+  text-align: left;
+  padding-left: 20px;
+}
