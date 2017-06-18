@@ -74,7 +74,11 @@ a{
 
 .tea-month{
   width: 1000px;
+  display: flex;
   justify-content: center;
+  align-content: center;
+  align-self: center;
+  width: 1200px;
 }
 
 .teas{
@@ -86,10 +90,11 @@ a{
 .locationimage{
   display: flex;
   justify-content: center;
-  align-items: center;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  align-content: center;
+  align-self: center;
+  width: 1200px;
   height: 500px;
-  width: 1000px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
 }
 
 .location h2{
