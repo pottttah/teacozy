@@ -52,12 +52,12 @@ a{
 
 .mission{
   display: flex;
-  align-items: center;
   justify-content: center;
-  width: 1000px;
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+  align-content: center;
+  align-self: center;
+  width: 1200px;
   height: 700px;
-  padding-top: 69px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
 }
 
 .ourmission{
