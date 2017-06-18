@@ -81,10 +81,6 @@ a{
   width: 1000px;
 }
 
-.location{
-  justify-content: center;
-}
-
 .location h2{
   padding-bottom: 15px;
 }
@@ -104,7 +100,10 @@ a{
 
 .contact{
   height: 200px;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .copyright{
