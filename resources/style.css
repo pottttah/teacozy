@@ -29,6 +29,10 @@ a{
   font-size: 22px;
   color: seashell;
   text-decoration: underline;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align:right;
 }
 
 .teas img{
@@ -41,13 +45,6 @@ a{
 
 .content{
     overflow: scroll;
-}
-
-.nav{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  text-align:right;
 }
 
 .mission{
