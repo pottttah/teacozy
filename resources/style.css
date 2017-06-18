@@ -29,10 +29,11 @@ a{
   font-size: 22px;
   color: seashell;
   text-decoration: underline;
+}
+
+.tea-month{
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  text-align:right;
+  justify-content: center;
 }
 
 .teas img{
@@ -45,6 +46,13 @@ a{
 
 .content{
     overflow: scroll;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align:right;
 }
 
 .mission{
