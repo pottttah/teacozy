@@ -1,12 +1,13 @@
 .header-container{
-  display: block;
-  background-color: black;
+  display: flex;
   justify-content: space-between;
+  align-items: center;
   position: fixed;
   width: 100%;
   z-index: 5;
   height: 69px;
   border-bottom: 1px solid seashell;
+  background-color: black;
 }
 
 .logo{
@@ -37,8 +38,6 @@ a{
 }
 .teas{
   margin: 30px;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .content{
